@@ -3183,35 +3183,35 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
   height: 300px;
   background-image: url("../images/avatars/placeholder.png");
 }
-#organizer .organizer-badges li a.badge-sp-sr {
+#organizer .organizer-badges li a.badge-sp-aa {
   width: 300px;
   height: 300px;
-  background-image: url("../images/avatars/sp_SR.jpg");
+  background-image: url("../images/avatars/sp_aa.jpg");
 }
-#organizer .organizer-badges li a.badge-sp-tmr {
+#organizer .organizer-badges li a.badge-sp-am {
   width: 300px;
   height: 300px;
-  background-image: url("../images/avatars/sp_TMR.jpg");
+  background-image: url("../images/avatars/sp_am.jpg");
 }
-#organizer .organizer-badges li a.badge-sp-ts {
+#organizer .organizer-badges li a.badge-sp-sm {
   width: 300px;
   height: 300px;
-  background-image: url("../images/avatars/sp_TS.jpg");
+  background-image: url("../images/avatars/sp_sm.jpg");
 }
 #organizer .organizer-badges li a.badge-sp-am {
   width: 300px;
   height: 300px;
   background-image: url("../images/avatars/sp_AM.jpg");
 }
-#organizer .organizer-badges li a.badge-sp-sd {
+#organizer .organizer-badges li a.badge-sp-cc {
   width: 300px;
   height: 300px;
-  background-image: url("../images/avatars/sp_SD.jpg");
+  background-image: url("../images/avatars/sp_cc.jpg");
 }
-#organizer .organizer-badges li a.badge-sp-sre {
+#organizer .organizer-badges li a.badge-sp-as {
   width: 300px;
   height: 300px;
-  background-image: url("../images/avatars/sp_SRe.jpg");
+  background-image: url("../images/avatars/sp_as.jpg");
 }
 /* ===================================================================
 *  14. sponsors - (_layout.scss)
